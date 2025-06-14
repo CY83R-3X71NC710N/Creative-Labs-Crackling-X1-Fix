@@ -9,7 +9,7 @@ if [ ! -f "$APP_PATH" ]; then
     exit 1
 fi
 
-# Infinite loop to launch the app every 3 minutes or 180 seconds
+# Infinite loop to launch the app every 1 minute
 while true; do
     # Kill any existing instances of Creative
     pkill -f "$APP_PATH"
