@@ -15,7 +15,7 @@
 # 60 = 1 minute
 # 120 = 2 minutes
 # 180 = 3 minutes
-RESTART_INTERVAL_SECONDS=120
+RESTART_INTERVAL_SECONDS=60
 
 # The name of the core audio engine to be surgically restarted.
 # Do not change this.
