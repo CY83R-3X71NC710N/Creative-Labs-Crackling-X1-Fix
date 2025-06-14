@@ -15,5 +15,5 @@ while true; do
     pkill -f "$APP_PATH"
     echo "Launching Creative at $(date)"
     "$APP_PATH" &
-    sleep 180
+    sleep 60
 done
