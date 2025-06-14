@@ -39,6 +39,10 @@ This project provides a simple shell script to automatically fix frequent audio 
 - Minimal audio interruption is expected during each reset.
 - No system reboot or device replug is required.
 
+# Why this is the best solution
+
+Utilizing AI to detect the crackling will never be as good as this solution, the detection of crackling in music, specifically due to it seeming to be most-prevelant in the right-earphone, will be difficult to provide audio spikes and false positives will remain. Therefore, without reverse engineering the driver (highly difficult) to fix it, the only other good solution would be waiting for creative to fix the problem.
+
 ## Disclaimer
 
 Use at your own risk. This script is provided as-is and may not work for all systems or configurations.
