@@ -22,7 +22,7 @@ echo "Press Control+C to stop this script."
 # Loop forever
 while true; do
     # Randomize interval between 30 and 60 seconds
-    RESTART_INTERVAL_SECONDS=$((RANDOM % 31 + 30))
+    RESTART_INTERVAL_SECONDS=$((RANDOM % 241 + 60))
 
     echo "----------------------------------------"
     echo "Waiting for ${RESTART_INTERVAL_SECONDS} seconds until next reset..."
