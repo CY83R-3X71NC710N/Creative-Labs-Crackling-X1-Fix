@@ -15,13 +15,13 @@ PLUGIN_PROCESS_NAME="AudioServerDriverPlugin.app"
 # --- Main Execution Loop ---
 
 echo "--- Starting Creative Surgical Audio Restarter ---"
-echo "The core audio plugin will be reset every 30 to 60 seconds (randomized)."
+echo "The core audio plugin will be reset every 3-5 minutes (randomized)."
 echo "Audio interruption will be minimal."
 echo "Press Control+C to stop this script."
 
 # Loop forever
 while true; do
-    # Randomize interval between 30 and 60 seconds
+    # Randomize interval between 3-5 minutes
     RESTART_INTERVAL_SECONDS=$((RANDOM % 241 + 60))
 
     echo "----------------------------------------"
