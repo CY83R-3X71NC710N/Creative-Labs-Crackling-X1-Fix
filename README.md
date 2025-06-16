@@ -2,6 +2,10 @@
 
 Actually, I have found that you can hack the brain itself into thinking there is no crackling if you play rain sounds from myNoise in the background as you listen to music, they blend together thus there is no crackling and you get to enjoy the atmosphere of rain. Or even better, listen to a fire crackling.
 
+```
+https://mynoise.net/NoiseMachines/fireNoiseGenerator.php
+```
+
 # Creative Labs Crackling X1 Fix
 
 This project provides a simple shell script to automatically fix frequent audio crackling issues with Creative Labs audio devices on macOS. The script periodically restarts the core audio engine plugin, which is quickly relaunched by macOS, minimizing audio interruption.
