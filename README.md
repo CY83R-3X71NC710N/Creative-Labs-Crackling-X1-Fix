@@ -4,6 +4,7 @@ Actually, I have found that you can hack the brain itself into thinking there is
 
 ```
 https://mynoise.net/NoiseMachines/fireNoiseGenerator.php
+https://mynoise.net/NoiseMachines/stormSoundGenerator.php
 ```
 
 # Creative Labs Crackling X1 Fix
