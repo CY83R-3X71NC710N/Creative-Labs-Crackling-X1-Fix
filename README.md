@@ -1,6 +1,6 @@
 # New-Solution:
 
-Actually, I have found that you can hack the brain itself into thinking there is no crackling if you play rain sounds from myNoise in the background as you listen to music, they blend together thus there is no crackling and you get to enjoy the atmosphere of rain.
+Actually, I have found that you can hack the brain itself into thinking there is no crackling if you play rain sounds from myNoise in the background as you listen to music, they blend together thus there is no crackling and you get to enjoy the atmosphere of rain. Or even better, listen to a fire crackling.
 
 # Creative Labs Crackling X1 Fix
 
