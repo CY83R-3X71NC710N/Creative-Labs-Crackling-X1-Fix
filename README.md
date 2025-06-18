@@ -6,6 +6,9 @@ Actually, I have found that you can hack the brain itself into thinking there is
 https://mynoise.net/NoiseMachines/fireNoiseGenerator.php
 https://mynoise.net/NoiseMachines/stormSoundGenerator.php
 
+Here is the custom set which tricks your mind:
+https://mynoise.net/NoiseMachines/custom.php?l=3737373737373939393900&m=FIRE7~FIRE7~FIRE7~FIRE8~FIRE8~FIRE8~FIRE9~FIRE9~FIRE9~FIRE9&orig=1&title=A%20Base%20Line
+
 Also here is a custom set I made titled Ambience:
 https://mynoise.net/NoiseMachines/custom.php?l=9969836856565845564500&m=FLOATING0~FLOATING1~FLOATING2~FLOATING3~FIRE7~FLOATING7~FIRE8~FLOATING8~FIRE9~FLOATING9&orig=1&title=Audioambience
 ```
