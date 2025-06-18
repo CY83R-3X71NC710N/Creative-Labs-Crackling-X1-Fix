@@ -1,6 +1,6 @@
 # New-Solution:
 
-Actually, I have found that you can hack the brain itself into thinking there is no crackling if you play rain sounds from myNoise in the background as you listen to music, they blend together thus there is no crackling and you get to enjoy the atmosphere of rain. Or even better, listen to a fire crackling.
+Actually, I have found that you can hack the brain itself into thinking there is no crackling if you play rain sounds from myNoise in the background as you listen to music, they blend together thus there is no crackling and you get to enjoy the atmosphere of rain. Or even better, listen to a fire crackling. I suggest doing a targeted EQ approach with the low treble, treble, and high treble cranked to the point where the crackling is indistinguishable and zeroing out all other frequencies and sounds.
 
 ```
 https://mynoise.net/NoiseMachines/fireNoiseGenerator.php
