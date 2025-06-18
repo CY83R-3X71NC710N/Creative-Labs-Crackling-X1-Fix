@@ -5,6 +5,9 @@ Actually, I have found that you can hack the brain itself into thinking there is
 ```
 https://mynoise.net/NoiseMachines/fireNoiseGenerator.php
 https://mynoise.net/NoiseMachines/stormSoundGenerator.php
+
+Also here is a custom set I made titled Ambience:
+https://mynoise.net/NoiseMachines/custom.php?l=9969836856565845564500&m=FLOATING0~FLOATING1~FLOATING2~FLOATING3~FIRE7~FLOATING7~FIRE8~FLOATING8~FIRE9~FLOATING9&orig=1&title=Audioambience
 ```
 
 # Creative Labs Crackling X1 Fix
